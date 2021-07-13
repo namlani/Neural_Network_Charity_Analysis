@@ -16,8 +16,7 @@ The purpose of this analysis is to use the features in the provided dataset to c
   2nd Hidden Layer: 5 neurons and relu activation function
   Output layer: sigmoid activation function
   
-  This model was chosen because relu is considered to be more efficient with nonlinear data and the second layer can re-     
-  weigh the inputs from the first layer. Performance metrics from this model: 
+  This model was chosen because relu is considered to be more efficient with nonlinear data and the second layer can re-weigh the inputs from the first layer. Performance metrics from this model: 
   ![image](https://user-images.githubusercontent.com/5934390/125510754-bb760bf3-cb55-47ef-913a-d2430e0e9b9d.png)
 
 * Were you able to achieve the target model performance?
@@ -28,5 +27,5 @@ The purpose of this analysis is to use the features in the provided dataset to c
   2. Added a third layer sigmoid layer with 6 neurons
      ![image](https://user-images.githubusercontent.com/5934390/125514426-ff32d5b1-46e7-4aa3-98ee-36fb79d8093b.png)
   3. Dropped SPECIAL_CONSIDERATIONS and STATUS columns:
-     ![image](https://user-images.githubusercontent.com/5934390/125513373-2c8a4e79-b010-4f7e-9445-ffd5b930d7ea.png)
+     ![image](https://user-images.githubusercontent.com/5934390/125514676-6ba16498-7f03-4995-80a5-b2fb747249aa.png)
 
