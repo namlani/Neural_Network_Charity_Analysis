@@ -28,7 +28,7 @@ The purpose of this analysis is to use the features in the provided dataset to c
   2. Added a third layer using sigmoid with 6 neurons
      <br>![image](https://user-images.githubusercontent.com/5934390/125522158-ffcebf5b-1541-47cf-b086-8291fd1f3eed.png)
   3. Dropped SPECIAL_CONSIDERATIONS and STATUS columns:
-     <br>![image](https://user-images.githubusercontent.com/5934390/125521664-8855a651-9d1a-4204-93db-f370a8978611.png)
+     <br>![image](https://user-images.githubusercontent.com/5934390/125523320-e880cdc1-6c61-461a-aaeb-3336497ef6ef.png)
 
 ## Summary
 The model was unable to reach an accuracy rating of 75% after using working code that makes three attempts to increase performance using the following steps:
