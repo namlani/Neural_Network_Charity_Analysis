@@ -30,3 +30,12 @@ The purpose of this analysis is to use the features in the provided dataset to c
   3. Dropped SPECIAL_CONSIDERATIONS and STATUS columns:
      <br>![image](https://user-images.githubusercontent.com/5934390/125514676-6ba16498-7f03-4995-80a5-b2fb747249aa.png)
 
+## Summary
+After using working code that makes three attempts to increase performance using the following steps:
+* Noisy variables are removed from features
+* Additional neurons are added to hidden layers
+* Additional hidden layers are added
+* The activation function of hidden layers or output layers is changed for optimization
+* The model's weights are saved every 5 epochs
+* The results are saved to an HDF5 file
+The model was unable to reach an accuracy rating of 75%. Because removing variables, using different activation functions and different amounts of layers and neurons did not achieve the intended results, conducting additional research on activation functions and the effects different combinations of the number of neurons and layers have is recommended. 
