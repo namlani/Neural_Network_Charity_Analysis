@@ -26,7 +26,7 @@ The purpose of this analysis is to use the features in the provided dataset to c
   1. Added a neuron and changed activation function to sigmoid for the second layer:
      <br>![image](https://user-images.githubusercontent.com/5934390/125520997-85a93f30-fdd8-4575-bd64-8f7e521125c4.png)
   2. Added a third layer using sigmoid with 6 neurons
-     <br>![image](https://user-images.githubusercontent.com/5934390/125514426-ff32d5b1-46e7-4aa3-98ee-36fb79d8093b.png)
+     <br>![image](https://user-images.githubusercontent.com/5934390/125521325-eb9b829c-e52a-4682-baeb-06415e939f95.png)
   3. Dropped SPECIAL_CONSIDERATIONS and STATUS columns:
      <br>![image](https://user-images.githubusercontent.com/5934390/125514676-6ba16498-7f03-4995-80a5-b2fb747249aa.png)
 
