@@ -10,13 +10,14 @@ The purpose of this analysis is to use the features in the provided dataset to c
   <br>All columns except for the "EIN" and "NAME" columns
 * What variable(s) are neither targets nor features, and should be removed from the input data?
   <br>"EIN" and "Name"
+  
 ### Compiling, Training, and Evaluating the Model
 * How many neurons, layers, and activation functions did you select for your neural network model, and why?
   <br>1st Hidden Layer: 8 neurons and relu activation function
   <br>2nd Hidden Layer: 5 neurons and relu activation function
   <br>Output layer: sigmoid activation function
   
-  <br>This model was chosen because relu is considered to be more efficient with nonlinear data and the second layer can re-weigh the inputs from the first layer. Performance metrics from this model: 
+  This model was chosen because relu is considered to be more efficient with nonlinear data and the second layer can re-weigh the inputs from the first layer. Performance metrics from this model: 
   ![image](https://user-images.githubusercontent.com/5934390/125510754-bb760bf3-cb55-47ef-913a-d2430e0e9b9d.png)
 
 * Were you able to achieve the target model performance?
