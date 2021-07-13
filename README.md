@@ -24,7 +24,7 @@ The purpose of this analysis is to use the features in the provided dataset to c
   <br>No
 * What steps did you take to try and increase model performance?
   1. Added a neuron and changed activation function to sigmoid for the second layer:
-     <br>![image](https://user-images.githubusercontent.com/5934390/125520997-85a93f30-fdd8-4575-bd64-8f7e521125c4.png)
+     <br>!![image](https://user-images.githubusercontent.com/5934390/125522480-002a6caf-9577-4fc4-82a8-af59c95b85f6.png)
   2. Added a third layer using sigmoid with 6 neurons
      <br>![image](https://user-images.githubusercontent.com/5934390/125522158-ffcebf5b-1541-47cf-b086-8291fd1f3eed.png)
   3. Dropped SPECIAL_CONSIDERATIONS and STATUS columns:
